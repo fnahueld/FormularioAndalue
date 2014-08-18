@@ -1,0 +1,93 @@
+﻿header {
+  text-align: center;
+}
+header figure img {
+  width: 200px;
+}
+#inicio {
+  color: #1ca782;
+  margin-top: 50px;
+  width: 100%;
+  height: 300px;
+  padding: 0 35% 0 35%;
+}
+#mensajeBienvenida {
+  padding: 1em 0 0 2em;
+  font-size: 18px;
+}
+#menu {
+  padding: 2em 3em 0 0;
+  color: #fff;
+}
+#menu ul {
+  list-style: none;
+}
+#menu ul li {
+  background: #1ca782;
+  display: inline-block;
+  padding: 1em;
+}
+#menu ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+#menu ul li:hover {
+  opacity: 0.8;
+  transitio: 0.3s;
+  cursor: pointer;
+}
+#indicaciones {
+  padding: 3em 20% 0 20%;
+}
+#indicaciones p {
+  color: #fff;
+  background: #1ca782;
+  text-align: justify;
+  padding: 1em;
+  border-radius: 0.3em 0 0.3em 0;
+}
+.menus {
+  padding: 2em 3em 0 0;
+  color: #fff;
+}
+.menus .li-disable {
+  background: #666;
+}
+.menus ul {
+  list-style: none;
+}
+.menus ul li {
+  background: #1ca782;
+  display: inline-block;
+  padding: 1em;
+}
+.menus ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+.menus ul li:hover {
+  opacity: 0.8;
+  transitio: 0.3s;
+  cursor: pointer;
+}
+#bodyItem1 {
+  padding: 0 20% 0 20%;
+}
+#gestionUsuarios div {
+  display: inline-block;
+  vertical-align: top;
+}
+.divGU {
+  color: #fff;
+  background: #1ca782;
+  width: 270px;
+  padding: 1em;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+#mensajeModalPopup
+{
+	text-align:center;
+ 	padding-top:5%;
+}
